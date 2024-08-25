@@ -15,7 +15,7 @@ Este projeto é uma introdução à programação com uma série de aulas que co
 
 ### Exemplo Visual do Projeto
 
-![Exemplo Visual](link-para-imagem)
+![Screenshot 2024-08-25 003143](https://github.com/user-attachments/assets/384b7fd3-a825-4a7e-b382-c30a398792a8)
 
 ## ✔️ Técnicas e Tecnologias Utilizadas
 
