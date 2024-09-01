@@ -1,3 +1,5 @@
+## 🌐 [English Version of README](README_EN.md)
+
 # Projeto de Programação
 
 Este projeto é uma introdução à programação com uma série de aulas que cobrem conceitos fundamentais e práticas avançadas. O objetivo é fornecer uma base sólida em programação através de atividades práticas e exercícios.
