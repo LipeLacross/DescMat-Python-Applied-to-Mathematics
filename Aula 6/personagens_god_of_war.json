@@ -1,0 +1,152 @@
+[
+  {
+    "nome": "Kratos",
+    "sexo": "masculino",
+    "animacao": false,
+    "superpoder": true,
+    "tipo": "herói",
+    "universo": "God of War",
+    "idade": 300,
+    "protagonista": true
+  },
+  {
+    "nome": "Atreus",
+    "sexo": "masculino",
+    "animacao": false,
+    "superpoder": true,
+    "tipo": "herói",
+    "universo": "God of War",
+    "idade": 16,
+    "protagonista": true
+  },
+  {
+    "nome": "Zeus",
+    "sexo": "masculino",
+    "animacao": false,
+    "superpoder": true,
+    "tipo": "deus",
+    "universo": "God of War",
+    "idade": 1000,
+    "protagonista": false
+  },
+  {
+    "nome": "Ares",
+    "sexo": "masculino",
+    "animacao": false,
+    "superpoder": true,
+    "tipo": "deus",
+    "universo": "God of War",
+    "idade": 1000,
+    "protagonista": false
+  },
+  {
+    "nome": "Freya",
+    "sexo": "feminino",
+    "animacao": false,
+    "superpoder": true,
+    "tipo": "deusa",
+    "universo": "God of War",
+    "idade": 1000,
+    "protagonista": true
+  },
+  {
+    "nome": "Baldur",
+    "sexo": "masculino",
+    "animacao": false,
+    "superpoder": true,
+    "tipo": "deus",
+    "universo": "God of War",
+    "idade": 30,
+    "protagonista": false
+  },
+  {
+    "nome": "Mimir",
+    "sexo": "masculino",
+    "animacao": false,
+    "superpoder": false,
+    "tipo": "sabedoria",
+    "universo": "God of War",
+    "idade": 2000,
+    "protagonista": false
+  },
+  {
+    "nome": "Thor",
+    "sexo": "masculino",
+    "animacao": false,
+    "superpoder": true,
+    "tipo": "deus",
+    "universo": "God of War",
+    "idade": 1000,
+    "protagonista": false
+  },
+  {
+    "nome": "Odin",
+    "sexo": "masculino",
+    "animacao": false,
+    "superpoder": true,
+    "tipo": "deus",
+    "universo": "God of War",
+    "idade": 1000,
+    "protagonista": false
+  },
+  {
+    "nome": "Pandora",
+    "sexo": "feminino",
+    "animacao": false,
+    "superpoder": false,
+    "tipo": "humano",
+    "universo": "God of War",
+    "idade": 15,
+    "protagonista": false
+  },
+  {
+    "nome": "Athena",
+    "sexo": "feminino",
+    "animacao": false,
+    "superpoder": true,
+    "tipo": "deusa",
+    "universo": "God of War",
+    "idade": 1000,
+    "protagonista": false
+  },
+  {
+    "nome": "Poseidon",
+    "sexo": "masculino",
+    "animacao": false,
+    "superpoder": true,
+    "tipo": "deus",
+    "universo": "God of War",
+    "idade": 1000,
+    "protagonista": false
+  },
+  {
+    "nome": "Hades",
+    "sexo": "masculino",
+    "animacao": false,
+    "superpoder": true,
+    "tipo": "deus",
+    "universo": "God of War",
+    "idade": 1000,
+    "protagonista": false
+  },
+  {
+    "nome": "Hercules",
+    "sexo": "masculino",
+    "animacao": false,
+    "superpoder": true,
+    "tipo": "herói",
+    "universo": "God of War",
+    "idade": 35,
+    "protagonista": false
+  },
+  {
+    "nome": "Helios",
+    "sexo": "masculino",
+    "animacao": false,
+    "superpoder": true,
+    "tipo": "deus",
+    "universo": "God of War",
+    "idade": 1000,
+    "protagonista": false
+  }
+]
